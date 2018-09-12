@@ -2,11 +2,6 @@
 
 # The System Design Primer
 
-<p align="center">
-  <img src="http://i.imgur.com/jj3A5N8.png">
-  <br/>
-</p>
-
 ## Motivation
 
 > Learn how to design large-scale systems.
@@ -41,45 +36,6 @@ Additional topics for interview prep:
 * [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [Additional system design interview questions](#additional-system-design-interview-questions)
 
-## Anki flashcards
-
-<p align="center">
-  <img src="http://i.imgur.com/zdCAkB3.png">
-  <br/>
-</p>
-
-The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
-
-* [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
-* [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
-
-Great for use while on-the-go.
-
-### Coding Resource: Interactive Coding Challenges
-
-Looking for resources to help you prep for the [**Coding Interview**](https://github.com/donnemartin/interactive-coding-challenges)?
-
-<p align="center">
-  <img src="http://i.imgur.com/b4YtAEN.png">
-  <br/>
-</p>
-
-Check out the sister repo [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges), which contains an additional Anki deck:
-
-* [Coding deck](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards/Coding.apkg)
-
-## Contributing
-
-> Learn from the community.
-
-Feel free to submit pull requests to help:
-
-* Fix errors
-* Improve sections
-* Add new sections
-* [Translate](https://github.com/donnemartin/system-design-primer/issues/28)
-
 Content that needs some polishing is placed [under development](#under-development).
 
 Review the [Contributing Guidelines](CONTRIBUTING.md).
@@ -89,11 +45,6 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 > Summaries of various system design topics, including pros and cons.  **Everything is a trade-off**.
 >
 > Each section contains links to more in-depth resources.
-
-<p align="center">
-  <img src="http://i.imgur.com/jrUBAF7.png">
-  <br/>
-</p>
 
 * [System design topics: start here](#system-design-topics-start-here)
     * [Step 1: Review the scalability video lecture](#step-1-review-the-scalability-video-lecture)
